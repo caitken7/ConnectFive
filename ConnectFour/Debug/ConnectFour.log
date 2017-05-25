@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConnectFour.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(65): warning C4309: '=': truncation of constant value
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(16): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(23): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(28): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(33): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\caseyaitken\documents\visual studio 2015\projects\connectfive\connectfour\source.cpp(38): warning C4390: ';': empty controlled statement found; is this the intent?
+  ConnectFour.vcxproj -> C:\Users\caseyaitken\Documents\Visual Studio 2015\Projects\ConnectFive\Debug\ConnectFive.exe
+  ConnectFour.vcxproj -> C:\Users\caseyaitken\Documents\Visual Studio 2015\Projects\ConnectFive\Debug\ConnectFive.pdb (Partial PDB)
